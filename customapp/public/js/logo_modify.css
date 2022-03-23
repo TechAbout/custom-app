@@ -1,0 +1,10 @@
+.erpnext-icon {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  content: url(https://pbs.twimg.com/profile_images/990649437402943489/JR4aYqmm.jpg);
+}
+
+[data-type="help"] {
+  display:none !important;
+}
