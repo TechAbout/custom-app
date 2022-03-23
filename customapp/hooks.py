@@ -15,6 +15,8 @@ doctype_js = {"Role" : "public/js/role.js"}
 
 app_include_css = "public/js/logo_modify.css"
 app_include_js = "public/js/remove_help_tab.js"
+app_include_js = "public/js/remove_learn_module.js"
+
 
 # will be executed after successfully installing this app
 after_install = "customapp.install.after_install"
